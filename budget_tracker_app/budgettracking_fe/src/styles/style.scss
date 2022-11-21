@@ -1,0 +1,29 @@
+@import "~bootstrap/scss/bootstrap";
+
+.display-inline-block {
+    display: inline-block;
+}
+
+.display-block {
+    display: block;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.content-center {
+    justify-content: center;
+}
+
+body {
+    background-image: url('./images/revenue.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.chart {
+    background-color: #fff;
+    border-radius: 2%;
+}
+
